@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+body {
+	height: 100%;
+}
+#ht,#header,#nav,#banner,#main,#fn,#footer{ width:1002px; margin:0 auto;}
+.ht-l ul {
+	height: 100%;
+}
+li{list-style:none;}
+/*header-top开始*/
+#ht{height:35px;
+    background:#e4e4e4;
+}
+.ht-l{ width:320px;
+height:35px;
+float:left;
+	}
+.ht-l ul{padding-left:10px;}
+.ht-l ul li{ font-size:12px;
+color:#68696b;
+border-left:1px solid #ffffff;
+border-right:1px solid #d5d5d5;
+float:left;
+line-height:35px;
+}
+
+.ht-m{width:210px;
+      height:35px;
+	  float:right;
+}
+.ht-m li{ width:70px;
+text-align:center;
+font-size:12px;
+color:#696768;
+line-height:35px;
+float:left;
+}
+.ht-r{ width:169px;
+height:20px;
+float:right;
+}
+.txt{width:140px;
+height:20px;
+border:none;
+}

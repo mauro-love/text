@@ -1,0 +1,10 @@
+git init   初始化
+git add
+git commit -m ""
+git status  查看状态
+git push
+
+
+
+
+cd
